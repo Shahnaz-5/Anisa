@@ -1,0 +1,7 @@
+echo "# Anisa" >> README.md 
+git init
+git add README.md 
+git commit -m "первая фиксация"
+git branch -M master
+git remote add origin https://github.com/Shahnaz-5/Anisa.git
+git push -u origin master
